@@ -1,0 +1,21 @@
+[submodule "code/Falcor/external/pybind11"]
+	path = external/pybind11
+	url = https://github.com/skallweitNV/pybind11.git
+[submodule "code/Falcor/external/glfw"]
+	path = external/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "code/Falcor/external/args"]
+	path = external/args
+	url = https://github.com/Taywee/args.git
+[submodule "code/Falcor/external/fmt"]
+	path = external/fmt
+	url = https://github.com/fmtlib/fmt.git
+[submodule "code/Falcor/external/imgui"]
+	path = external/imgui
+	url = https://github.com/ocornut/imgui.git
+[submodule "code/Falcor/external/vulkan-headers"]
+	path = external/vulkan-headers
+	url = https://github.com/KhronosGroup/Vulkan-Headers
+[submodule "code/Falcor/external/tiny-cuda-nn"]
+	path = external/tiny-cuda-nn
+	url = https://github.com/NVlabs/tiny-cuda-nn
